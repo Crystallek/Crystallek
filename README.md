@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=takoda121&style=flat-square" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=takoda121&show_icons=true&locale=en&layout=compact" alt="takoda121" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=takoda121&show_icons=true&locale=en&layout=compact" alt="Crystallek" /></p>
 
 - 👋 Hi, I’m @Crystallek
 - 👀 I’m interested in programming
