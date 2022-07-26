@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
-
 - 👋 Hi, I’m @Crystallek
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
