@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=takoda121&show_icons=true&locale=en&layout=compact" alt="takoda121" /></p>
+
 
 - 🌱 I’m currently learning **c++**
 
