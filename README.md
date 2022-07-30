@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Crystallek](https://github.com/Crystallek)
 
-- 💬 Ask me about **why i made <insert random repo here>**
+- 💬 Ask me about **why i made (insert random repo here)**
 
 - 📫 How to reach me **Crystallek#3348**
 
