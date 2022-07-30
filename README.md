@@ -6,21 +6,13 @@
 
 - 🌱 I’m currently learning **c++**
 
-- 👯 I’m looking to collaborate **with your mom**
-
-- 🤝 I’m looking for help with **doing your mom**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Crystallek](https://github.com/Crystallek)
 
-- 📝 I regularly write articles on [no](no)
-
-- 💬 Ask me about **topinkas info**
+- 💬 Ask me about **why i made <insert random repo here>**
 
 - 📫 How to reach me **Crystallek#3348**
 
-- 📄 Know about my experiences [no](no)
-
-- ⚡ Fun fact **topinka is gay**
+- ⚡ Fun fact **im stupid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
