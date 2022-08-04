@@ -22,6 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takoda121&show_icons=true&locale=en&layout=compact" alt="Crystallek" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takoda121&show_icons=true&locale=en" alt="Crystallek" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takoda121&" alt="Crystallek" /></p>
