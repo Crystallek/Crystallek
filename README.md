@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Crystallek</h1>
-<h3 align="center">A bad developer</h3>
+<h3 align="center">I know how to center a div</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Crystallek&style=flat-square" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Crystallek" alt="Crystallek" /></a> </p>
 
